@@ -1,0 +1,6 @@
+c:\users\mrkolince\documents\visual studio 2013\Projects\AngularJSPracticeApp\AngularJSPracticeApp\bin\AngularJSPracticeApp.dll.config
+c:\users\mrkolince\documents\visual studio 2013\Projects\AngularJSPracticeApp\AngularJSPracticeApp\bin\AngularJSPracticeApp.dll
+c:\users\mrkolince\documents\visual studio 2013\Projects\AngularJSPracticeApp\AngularJSPracticeApp\bin\AngularJSPracticeApp.pdb
+c:\users\mrkolince\documents\visual studio 2013\Projects\AngularJSPracticeApp\AngularJSPracticeApp\obj\Debug\AngularJSPracticeApp.csprojResolveAssemblyReference.cache
+c:\users\mrkolince\documents\visual studio 2013\Projects\AngularJSPracticeApp\AngularJSPracticeApp\obj\Debug\AngularJSPracticeApp.dll
+c:\users\mrkolince\documents\visual studio 2013\Projects\AngularJSPracticeApp\AngularJSPracticeApp\obj\Debug\AngularJSPracticeApp.pdb
